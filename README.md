@@ -1,12 +1,12 @@
-# Personal Website & Template
+# Personal Website Template
 
-A highly customizable, responsive, and performance-optimized personal website built for developers. This project doubles as a production-ready Next.js template, featuring a dynamic timeline, centralized data architecture, file-based MDX blogging and accessible infrastructure.
+A highly customizable, responsive and performance-optimized personal website built for developers. This project doubles as a production-ready Next.js template, featuring a dynamic timeline, centralized data architecture, file-based MDX blogging and accessible infrastructure.
 
 ## Features
 
 - **Centralized Data Hub**: Drive your entire site's content from easy-to-edit files in ([data/](./data), [content/](./content) and [public/](./public)).
 - **File-Based MDX Blog**: Write your blogs in Markdown with frontmatter support. Includes a sleek modal-intercept route for seamless blog reading.
-- **Dynamic Timeline**: A unified, "**circuit-board**" inspired timeline for work, education, and projects with category filtering.
+- **Dynamic Timeline**: A unified, "**circuit-board**" inspired timeline for work, education and projects with category filtering.
 - **Proficiency Highlighting**: Dynamically highlight your core skills in the stack section.
 - **Responsive & Accessible**: Fully mobile-optimized layouts with WCAG-compliant color contrast across light and dark modes.
 - **SEO Optimized**: Fully integrated Metadata engine resolving OpenGraph tags, dynamic titles and canonical URLs automatically.
@@ -15,11 +15,11 @@ A highly customizable, responsive, and performance-optimized personal website bu
 
 - **Language and Framework**: TypeScript v5 and Next.js v16 (App Router).
 - **Styling and Animations**: Tailwind CSS v4, Shadcn UI and Framer Motion.
-- **Blog Engine**: next-mdx-remote & gray-matter.
+- **Blog Engine**: next-mdx-remote and gray-matter.
 
 ## Getting Started
 
-If you want to use this codebase as your own portfolio, check out the **[Template Guide](TEMPLATE_GUIDE.md)** for a step-by-step walkthrough on how to customize the content, colors, and structure for yourself.
+If you want to use this codebase as your own website, check out the **[Template Guide](TEMPLATE_GUIDE.md)** for a step-by-step walkthrough on how to customize the content, colors and structure for yourself.
 
 To run the development server locally:
 
