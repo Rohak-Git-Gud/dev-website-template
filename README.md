@@ -35,4 +35,4 @@ To change the port, please edit the `package.json` file's `scripts.dev` property
 ---
 
 Happy Building.  
-**P.S.:** This README is AI generated. Please ignore the goof-ups or inform me about any issues by opening an issue.
+**P.S.:** This README is partially AI generated. Please inform me about any issues by opening an issue.
