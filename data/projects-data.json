@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "Project1Title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill1", "Skill2", "Skill3", "Skill4"],
+		"githubUrl": "/project-1-repo",
+		"createdDate": "Oct-2024",
+		"isLive": true,
+		"liveUrl": "https://localhost:3000"
+	},
+	{
+		"id": 2,
+		"title": "Project2Title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill5", "Skill6", "Skill7"],
+		"githubUrl": "/project-2-repo",
+		"createdDate": "Apr-2022",
+		"isLive": true,
+		"liveUrl": "https://localhost:4000"
+	},
+	{
+		"id": 3,
+		"title": "Project3Title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill1", "Skill4", "Skill8"],
+		"githubUrl": "/project-3-repo",
+		"createdDate": "Jan-2023",
+		"isLive": false
+	},
+	{
+		"id": 4,
+		"title": "Project4Title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill5", "Skill6", "Skill7"],
+		"githubUrl": "/project-4-repo",
+		"createdDate": "Apr-2020",
+		"isLive": false
+	},
+	{
+		"id": 5,
+		"title": "Project5Title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill1", "Skill2", "Skill3", "Skill4"],
+		"githubUrl": "/project-5-repo",
+		"createdDate": "Jul-2020",
+		"isLive": true,
+		"liveUrl": "https://localhost:5000"
+	}
+]

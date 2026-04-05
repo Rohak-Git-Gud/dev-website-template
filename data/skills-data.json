@@ -1,0 +1,54 @@
+[
+	{
+		"category": "languages",
+		"title": "Languages",
+		"skills": [
+			{ "name": "Python", "proficient": true },
+			{ "name": "TypeScript", "proficient": true },
+			"JavaScript",
+			"C#",
+			"Java",
+			"C++",
+			"HTML",
+			"CSS",
+			"Bash",
+			"Powershell"
+		]
+	},
+	{
+		"category": "frameworks",
+		"title": "Frameworks & Libraries",
+		"skills": [
+			{ "name": "Django", "proficient": true },
+			"FastAPI",
+			"Flask",
+			"Node.js",
+			"Express.js",
+			"React.js",
+			"Next.js",
+			"ASP.NET",
+			"Entity Framework",
+			"Spring Boot"
+		]
+	},
+	{
+		"category": "databases",
+		"title": "Databases",
+		"skills": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite", "InfluxDB"]
+	},
+	{
+		"category": "devops",
+		"title": "DevOps & Cloud",
+		"skills": ["AWS", "Docker", "Kubernetes", "GitHub Actions", "Terraform", "Ansible", "Jenkins"]
+	},
+	{
+		"category": "security",
+		"title": "Security",
+		"skills": ["Nmap", "Wireshark", "Burp Suite", "OWASP ZAP", "Metasploit"]
+	},
+	{
+		"category": "tools",
+		"title": "Tools & Others",
+		"skills": ["Git", "Linux", "Nginx", "Postman", "Grafana", "VS Code"]
+	}
+]

@@ -1,0 +1,36 @@
+{
+	"domain": "YourDomain",
+	"siteUrl": "",
+	"name": "YourName",
+	"role": "_Primary_Skill",
+	"secondary": "_Secondary_Skill",
+	"tertiary": "_Aspirational_Skill",
+	"location": "City, Country",
+	"birthYear": "2000",
+	"photoPath": "",
+	"aboutMe": [
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+	],
+	"socials": {
+		"github": "https://github.com/yourusername",
+		"linkedin": "https://linkedin.com/in/yourusername",
+		"medium": "https://medium.com/@yourusername",
+		"email": "your.email@yourdomain.com"
+	},
+	"seo": {
+		"title": "YourName - My Website",
+		"description": "Personal website of YourName, a Software Developer specializing in _Primary_Skill and _Secondary_Skill. _Aspirational_Skill Enthusiast.",
+		"keywords": [
+			"Developer",
+			"Website",
+			"YourDomain",
+			"YourName",
+			"_Primary_Skill",
+			"_Secondary_Skill",
+			"_Aspirational_Skill"
+		]
+	}
+}

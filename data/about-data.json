@@ -1,0 +1,14 @@
+{
+	"site": [
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+	],
+	"siteSourceRepo": "/repo",
+	"privacy": [
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+	],
+	"pointers": ["No cookies are used.", "No third-party analytics trackers.", "No advertising scripts."]
+}

@@ -1,0 +1,11 @@
+{
+	"skills": "Skills flavor text goes here",
+	"noSkills": "No skills found.",
+	"timeline": "Timeline flavor text goes here",
+	"noTimeline": "No timeline records found.",
+	"projects": "Projects flavor text goes here",
+	"noProjects": "No projects found.",
+	"about": "About flavor text goes here",
+	"blog": "Blog flavor text goes here",
+	"noBlog": "No blogs found."
+}

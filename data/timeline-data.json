@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"category": "education",
+		"title": "DegreeName",
+		"organization": "UniversityName",
+		"startDate": "Jul-2015",
+		"endDate": "Apr-2018",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill1", "Skill2", "Skill3"]
+	},
+	{
+		"id": 2,
+		"category": "work",
+		"title": "JobTitle",
+		"organization": "CompanyName",
+		"startDate": "Jun-2018",
+		"endDate": "Dec-2021",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill4", "Skill2", "Skill5"]
+	},
+	{
+		"id": 3,
+		"category": "break",
+		"title": "BreakTitle",
+		"organization": "Personal",
+		"startDate": "Jan-2022",
+		"endDate": "Mar-2022",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": []
+	},
+	{
+		"id": 4,
+		"category": "education",
+		"title": "Degree2Name",
+		"organization": "University2Name",
+		"startDate": "Jun-2022",
+		"endDate": "Apr-2024",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill6", "Skill7", "Skill8"]
+	},
+	{
+		"id": 5,
+		"category": "upskilling",
+		"title": "Title",
+		"organization": "Personal",
+		"startDate": "Aug-2023",
+		"endDate": "Jun-2024",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill4", "Skill7", "Skill8"]
+	},
+	{
+		"id": 6,
+		"category": "work",
+		"title": "Job2Title",
+		"organization": "CompanyName2",
+		"startDate": "Aug-2024",
+		"endDate": "Present",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus fuga eius beatae repellat quisquam quia vel natus nobis sunt, iusto at ut veniam tempora. Modi dolor vel accusamus in ad?",
+		"skills": ["Skill4", "Skill7", "Skill5"]
+	}
+]
